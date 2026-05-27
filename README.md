@@ -276,7 +276,6 @@ afeta apenas `filtered_posts`, `avg_chars` e `avg_comments`.
 ```bash
 # 1. Clonar e entrar no diretório
 git clone <https://github.com/joaovitorshenriques/user-analytics>
-cd user-analytics
 
 # 2. Criar ambiente virtual (recomendado)
 python -m venv .venv
